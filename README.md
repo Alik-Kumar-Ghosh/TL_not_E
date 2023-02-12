@@ -72,6 +72,21 @@ To run -> F5
   <img src="Screenshots/[Extension Development Host].gif"></img>
  
  ---
+ 
+ ### Using API
+
+<a href="https://platform.openai.com/account/api-keys">https://platform.openai.com/account/api-keys</a> <br>
+
+```javascript
+headers: {
+  'Content-Type': 'application/json',
+  'Authorization': 'Bearer Open_AI_API'
+  },
+```
+Replace Open_AI_API with your secret API key
+
+---
+ 
 
 ## Since this Extension is using OpenAI's Chat_GPT_3 So it will keep improving itself
 
