@@ -8,7 +8,8 @@ VScode MarketPlace
 
 <a href="https://marketplace.visualstudio.com/items?itemName=AlikKumarGhosh.tl-not-e"> <img  width="30%" height="30%" src="Screenshots/VSC Market.png"></img></a>
 
-![https://marketplace.visualstudio.com/items?itemName=AlikKumarGhosh.tl-not-e](https://marketplace.visualstudio.com/items?itemName=AlikKumarGhosh.tl-not-e)
+<a href="https://marketplace.visualstudio.com/items?itemName=AlikKumarGhosh.tl-not-e"> https://marketplace.visualstudio.com/items?itemName=AlikKumarGhosh.tl-not-e </a>
+
  ---
 ### Introduction
 
