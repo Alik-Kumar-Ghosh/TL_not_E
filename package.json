@@ -1,0 +1,46 @@
+{
+  "name": "tl-not-e",
+  "displayName": "TL_not_E",
+  "description": "Know your codes time complexity ",
+  "publisher": "AlikKumarGhosh",
+  "version": "1.0.0",
+  "icon": "Logo_TL_not_E.png",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onCommand:tl-not-e.ComputeTimeComplexity"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "tl-not-e.ComputeTimeComplexity",
+        "title": "Compute Time Complexity"
+      }
+    ]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "node ./test/runTest.js"
+  },
+  "devDependencies": {
+    "@types/glob": "^8.0.1",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "16.x",
+    "@types/vscode": "^1.75.0",
+    "@vscode/test-electron": "^2.2.2",
+    "eslint": "^8.33.0",
+    "glob": "^8.1.0",
+    "mocha": "^10.1.0",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "node-fetch": "^1.7.3",
+    "openai": "^3.1.0"
+  }
+}
