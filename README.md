@@ -2,7 +2,10 @@
 
 Now easily compute time complexity of your code using Chat-GPT3
 
-## Introduction
+
+
+
+### Introduction
 
 <p>
 Introducing the Time Complexity Calculator extension, the ultimate tool for developers and programmers to accurately analyze the efficiency of their code. The extension helps you determine the time complexity of your code by calculating how much time it takes for your code to run as the size of the input grows.
@@ -21,20 +24,52 @@ So why wait? Download the Time Complexity Calculator extension today and start o
 
 </p>
 
-## How to Use
+### How to Use
 
 ```
 Select the Code
+
+
+  ![alt text](/Screenshots/screenshot1.png "screnCap")
+  
 ```
 
 ```
 Open Command palette using -> Right Click of Mouse -> or using Ctrl+Shift+P
+
+
+  ![alt text](/Screenshots/screenshot2.png "screnCap")
+
 ```
 
 ```
 Type and Click on Compute Time Complexity & just wait for few seconds
+
+
+  ![alt text](/Screenshots/screenshot3.png "screnCap")
+
 ```
 
-### Since this Extension is using OpenAI's Chat_GPT So it will keep improving itself
+### Installation 
+
+```
+
+npm install 
+
+```
+
+```
+
+To run -> F5 
+
+```
+
+ ### ScreenCast
+ 
+  ![alt text](/Screenshots/[Extension Development Host].gif  "screnCap")
+ 
+ ---
+
+## Since this Extension is using OpenAI's Chat_GPT_3 So it will keep improving itself
 
 **Enjoy!**
