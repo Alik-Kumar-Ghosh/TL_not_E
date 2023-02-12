@@ -1,5 +1,7 @@
 # tl-not-e README
 
+<img width="5%" height="5%" src="Logo_TL_not_E.png"></img>
+
 Now easily compute time complexity of your code using Chat-GPT3
  ---
 VScode MarketPlace
