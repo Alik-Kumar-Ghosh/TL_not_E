@@ -73,7 +73,7 @@ To run -> F5
  
  ---
  
- ### Using API
+ ### Using OpenAI API
 
 <a href="https://platform.openai.com/account/api-keys">https://platform.openai.com/account/api-keys</a> <br>
 
