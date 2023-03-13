@@ -32,7 +32,7 @@ So why wait? Download the Time Complexity Calculator extension today and start o
 ### How to Use
 
 ```
-Select the Code
+Select any Code
 ```
  <img width="25%" height="25%" src="/Screenshots/Screenshot 1.png"></img>
 
